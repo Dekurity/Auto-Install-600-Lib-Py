@@ -29,8 +29,8 @@
 1. Clone repositori ini:
 
     ```sh
-    git clone https://github.com/Dekurity/your-repo-name.git
-    cd your-repo-name
+    git clone https://github.com/Dekurity/Auto-Install-600+-Lib-Py.git
+    cd Auto-Install-600+-Lib-Py
     ```
 
 2. Pastikan Anda memiliki `pip` dan `virtualenv` terinstal. Jika belum, Anda dapat menginstalnya dengan:
@@ -50,7 +50,7 @@
 4. Install semua dependensi yang diperlukan:
 
     ```sh
-    pip install -r requirements.txt
+    pip install rich importlib
     ```
 
 ## 🚀 Cara Penggunaan
